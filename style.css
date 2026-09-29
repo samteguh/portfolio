@@ -34,7 +34,7 @@
       background: none; border: none; cursor: pointer; padding: 8px;
     }
     .hamburger span { width: 24px; height: 2px; background: var(--text); }
-    
+
     @media (prefers-color-scheme: dark){
       :root{
         --bg: #0f0f0f;
@@ -55,7 +55,7 @@
     
     html { scroll-behavior: smooth; }
     body {
-      font-family: 'Poppins', sans-serif;
+      font-family: 'Montserrat', sans-serif;
       background: var(--bg);
       color: var(--text);
       line-height: 1.6;
