@@ -343,7 +343,6 @@
       box-shadow: 0 10px 24px rgba(105, 171, 206, 0.15);
     }
 
-    /* Icon tanpa kotak background */
     .social-icon {
       width: 32px;
       height: 32px;
@@ -423,7 +422,7 @@
 
       /* Contact — mobile */
       .social-grid {
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: repeat(3, 1fr);
         gap: 1rem;
       }
       .social-card {
